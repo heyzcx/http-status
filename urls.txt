@@ -1,0 +1,4 @@
+# Example URL list, one per line. Lines starting with # are ignored.
+https://example.com
+https://github.com
+https://httpstat.us/404
